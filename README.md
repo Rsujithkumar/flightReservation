@@ -1,0 +1,2 @@
+The Flight Reservation and Check-In System is a web application designed to facilitate flight reservations and check-in processes for passengers. It provides functionalities for users to search for flights, make reservations, and perform check-ins online.
+The System simplifies the flight booking process by providing an intuitive web interface for users to search, reserve, and check in for flights. It enhances the overall passenger experience and streamlines airline operations.
